@@ -2,7 +2,7 @@
 
 :white_check_mark: 3.0 wymaganie 1 [Link do commita 1](https://github.com/WBZdeb/E-Biznes-Zadania/commit/2fae912d6ac1d4fd385e5100859af2ca5a477952)
 
-:x: 3.5 wymaganie 2 [Link do commita2 ](https://github.com/kprzystalski/workshop_template/commit/hash)
+:white_check_mark: 3.5 wymaganie 2 [Link do commita2 ](https://github.com/WBZdeb/E-Biznes-Zadania/commit/985c200f369ae30d2d95c60d0b8579fb77433450)
 
 :x: 4.0 wymaganie 3 [Link do commita 3](https://github.com/kprzystalski/workshop_template/commit/hash)
 
@@ -11,7 +11,7 @@
 :x: 5.0 wymaganie 5 [Link do commita 5](https://github.com/kprzystalski/workshop_template/commit/hash)
 
 
-Kod: Folder "Zadanie1"
+Kod: folder "Zadanie1"
 
 **Zadanie 2** Tytuł
 
