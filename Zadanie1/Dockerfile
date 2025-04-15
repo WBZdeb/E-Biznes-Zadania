@@ -23,5 +23,18 @@ RUN apt-get update && apt-get install -y curl zip unzip && \
     bash -c "source $HOME/.sdkman/bin/sdkman-init.sh && sdk install kotlin"
 ENV PATH="/root/.sdkman/candidates/kotlin/current/bin:$PATH"
 
-# Verify installations
-CMD ["bash", "-c", "python3.10 --version && java -version && kotlin -version"]
+# Install Gradle
+ENV GRADLE_VERSION=8.7
+RUN curl -sSL https://services.gradle.org/distributions/gradle-${GRADLE_VERSION}-bin.zip -o gradle.zip && \
+    unzip gradle.zip -d /opt/gradle && \
+    ln -s /opt/gradle/gradle-${GRADLE_VERSION}/bin/gradle /usr/bin/gradle && \
+    rm gradle.zip
+
+# Run gradle project
+COPY app /app
+WORKDIR /app
+
+RUN gradle build
+
+# Verify installations, run gradle app
+CMD ["bash", "-c", "python3.10 --version && java -version && kotlin -version && gradle -version && gradle run"]
