@@ -4,9 +4,9 @@
 
 :white_check_mark: 3.5 wymaganie 2 [Link do commita2 ](https://github.com/WBZdeb/E-Biznes-Zadania/commit/985c200f369ae30d2d95c60d0b8579fb77433450)
 
-:x: 4.0 wymaganie 3 [Link do commita 3](https://github.com/kprzystalski/workshop_template/commit/hash)
+:white_check_mark: 4.0 wymaganie 3 [Link do commita 3](https://github.com/WBZdeb/E-Biznes-Zadania/commit/f5c061d992502005c374f093a5a518214f50875a)
 
-:x: 4.5 wymaganie 4 [Link do commita 4](https://github.com/kprzystalski/workshop_template/commit/hash)
+:white_check_mark: 4.5 wymaganie 4 [Link do commita 4]([https://github.com/kprzystalski/workshop_template/commit/hash](https://github.com/WBZdeb/E-Biznes-Zadania/commit/f5c061d992502005c374f093a5a518214f50875a))
 
 :x: 5.0 wymaganie 5 [Link do commita 5](https://github.com/kprzystalski/workshop_template/commit/hash)
 
