@@ -12,7 +12,8 @@
 
 
 Kod: folder "Zadanie1"
-Dokcerhub: https://hub.docker.com/repository/docker/wbzdeb/zad1/general
+
+Dockerhub: https://hub.docker.com/repository/docker/wbzdeb/zad1/general
 
 **Zadanie 2** Scala
 
