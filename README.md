@@ -12,10 +12,11 @@
 
 
 Kod: folder "Zadanie1"
+Dokcerhub: https://hub.docker.com/repository/docker/wbzdeb/zad1/general
 
-**Zadanie 2** Tytuł
+**Zadanie 2** Scala
 
-:x: 3.0 wymaganie 1 [Link do commita 1](https://github.com/kprzystalski/workshop_template/commit/hash)
+:white_check_mark: 3.0 wymaganie 1 [Link do commita 1](https://github.com/WBZdeb/E-Biznes-Zadania/commit/0742ec268d0abbc2b1e700edca9411af84624bba)
 
 :x: 3.5 wymaganie 2 [Link do commita2 ](https://github.com/kprzystalski/workshop_template/commit/hash)
 
@@ -26,7 +27,7 @@ Kod: folder "Zadanie1"
 :x: 5.0 wymaganie 5 [Link do commita 5](https://github.com/kprzystalski/workshop_template/commit/hash)
 
 
-Kod: (folder lub branch)
+Kod: folder "Zadanie2"
 
 
 Kod nalezy umieścić w w folderach lub na branchach, ale nalezy pod kazdym zadaniem wskazac link do brancha lub nazwę katalogu na repozytorium. 
