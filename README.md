@@ -19,7 +19,7 @@ Dockerhub: https://hub.docker.com/repository/docker/wbzdeb/zad1/general
 
 :white_check_mark: 3.0 wymaganie 1 [Link do commita 1](https://github.com/WBZdeb/E-Biznes-Zadania/commit/0742ec268d0abbc2b1e700edca9411af84624bba)
 
-:x: 3.5 wymaganie 2 [Link do commita2 ](https://github.com/kprzystalski/workshop_template/commit/hash)
+:white_check_mark: 3.5 wymaganie 2 [Link do commita 2](https://github.com/WBZdeb/E-Biznes-Zadania/commit/d98fd5184e12788efe41567c1454f1afdfb6972d)
 
 :x: 4.0 wymaganie 3 [Link do commita 3](https://github.com/kprzystalski/workshop_template/commit/hash)
 
