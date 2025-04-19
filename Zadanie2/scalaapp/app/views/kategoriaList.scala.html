@@ -1,0 +1,10 @@
+@(kategorie: List[Kategoria])
+
+@main("Product List") {
+  <h1>Product List</h1>
+  <ul>
+    @for(k <- kategorie) {
+    <li>@k.id) @k.nazwa</li>
+    }
+  </ul>
+}
