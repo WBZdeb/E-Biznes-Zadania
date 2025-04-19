@@ -1,0 +1,10 @@
+@(produkty: List[Produkt])
+
+@main("Product List") {
+  <h1>Product List</h1>
+  <ul>
+    @for(p <- produkty) {
+    <li>@p.nazwa - @p.cena</li> <!-- Show product name and price -->
+    }
+  </ul>
+}
