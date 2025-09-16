@@ -83,7 +83,7 @@ Kod: folder "Zadanie5"
 
 **Zadanie 6** Testy
 
-:white_check_mark: Należy stworzyć 20 przypadków testowych w CypressJS lub Selenium (Kotlin, Python, Java, JS, Go, Scala) [Link do commita](https://github.com/WBZdeb/E-Biznes-Zadania/commit/ee734019061cb542414aa3b009fe9d3e5ae3dae8)
+:white_check_mark: 3.0 Należy stworzyć 20 przypadków testowych w CypressJS lub Selenium (Kotlin, Python, Java, JS, Go, Scala) [Link do commita](https://github.com/WBZdeb/E-Biznes-Zadania/commit/ee734019061cb542414aa3b009fe9d3e5ae3dae8)
 
 :white_check_mark: 3.5 Należy rozszerzyć testy funkcjonalne, aby zawierały minimum 50 asercji [Link do commita](https://github.com/WBZdeb/E-Biznes-Zadania/commit/ee734019061cb542414aa3b009fe9d3e5ae3dae8)
 
@@ -93,8 +93,29 @@ Kod: folder "Zadanie5"
 
 :x: 5.0 Należy uruchomić testy funkcjonalne na Browserstacku
 
-
 Kod: folder "Zadanie6"
+
+
+**Zadanie 7** Sonar
+
+
+:white_check_mark: 3.0 Należy dodać litera do odpowiedniego kodu aplikacji serwerowej w hookach gita [Link do commita](https://github.com/WBZdeb/E-Biznes-Zadania-Zadanie7/commit/9e85e2bf81b7904170af41c471f36fceda9aaacd)
+
+:white_check_mark: 3.5 Należy wyeliminować wszystkie bugi w kodzie w Sonarze (kod aplikacji serwerowej) [Link do commita](https://github.com/WBZdeb/E-Biznes-Zadania-Zadanie7/commit/a91d8f5657f88715781c00a556d9c44e364c2c43)
+
+:white_check_mark: 4.0 Należy wyeliminować wszystkie zapaszki w kodzie w Sonarze (kod aplikacji serwerowej) [Link do commita](https://github.com/WBZdeb/E-Biznes-Zadania-Zadanie7/commit/a91d8f5657f88715781c00a556d9c44e364c2c43)
+
+:white_check_mark: 4.5 Należy wyeliminować wszystkie podatności oraz błędy bezpieczeństwa w kodzie w Sonarze (kod aplikacji serwerowej) [Link do commita](https://github.com/WBZdeb/E-Biznes-Zadania-Zadanie7/commit/a91d8f5657f88715781c00a556d9c44e364c2c43)
+
+:white_check_mark: 5.0 Należy wyeliminować wszystkie błędy oraz zapaszki w kodzie aplikacji klienckiej [Link do commita](https://github.com/WBZdeb/E-Biznes-Zadania-Zadanie7/commit/a91d8f5657f88715781c00a556d9c44e364c2c43)
+
+Kod: repozytorium https://github.com/WBZdeb/E-Biznes-Zadania-Zadanie7
+
+Badge:
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=WBZdeb_E-Biznes-Zadania-Zadanie7&metric=bugs)](https://sonarcloud.io/summary/new_code?id=WBZdeb_E-Biznes-Zadania-Zadanie7)
+[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=WBZdeb_E-Biznes-Zadania-Zadanie7&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=WBZdeb_E-Biznes-Zadania-Zadanie7)
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=WBZdeb_E-Biznes-Zadania-Zadanie7&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=WBZdeb_E-Biznes-Zadania-Zadanie7)
+[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=WBZdeb_E-Biznes-Zadania-Zadanie7&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=WBZdeb_E-Biznes-Zadania-Zadanie7)
 
 
 
