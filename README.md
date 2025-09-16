@@ -48,6 +48,56 @@ Kontrolery mogą bazować na listach zamiast baz danych. CRUD: show all, show by
 Kod: folder "Zadanie3"
 
 
+**Zadanie 4** Go
+
+:white_check_mark: 3.0 Należy stworzyć aplikację we frameworki echo w j. Go, która będzie miała kontroler Produktów zgodny z CRUD [Link do commita](https://github.com/WBZdeb/E-Biznes-Zadania/commit/ee734019061cb542414aa3b009fe9d3e5ae3dae8)
+
+:white_check_mark: 3.5 Należy stworzyć model Produktów wykorzystując gorm oraz wykorzystać model do obsługi produktów (CRUD) w kontrolerze (zamiast listy) [Link do commita](https://github.com/WBZdeb/E-Biznes-Zadania/commit/ee734019061cb542414aa3b009fe9d3e5ae3dae8)
+
+:white_check_mark: 4.0 Należy dodać model Koszyka oraz dodać odpowiedni endpoint [Link do commita](https://github.com/WBZdeb/E-Biznes-Zadania/commit/ee734019061cb542414aa3b009fe9d3e5ae3dae8)
+
+:white_check_mark: 4.5 Należy stworzyć model kategorii i dodać relację między kategorią, a produktem [Link do commita](https://github.com/WBZdeb/E-Biznes-Zadania/commit/ee734019061cb542414aa3b009fe9d3e5ae3dae8)
+
+:white_check_mark: 5.0 pogrupować zapytania w gorm’owe scope'y [Link do commita](https://github.com/WBZdeb/E-Biznes-Zadania/commit/ee734019061cb542414aa3b009fe9d3e5ae3dae8)
+
+
+Kod: folder "Zadanie4"
+
+
+**Zadanie 5** Frontend
+
+:white_check_mark: 3.0 W ramach projektu należy stworzyć dwa komponenty: Produkty oraz Płatności; Płatności powinny wysyłać do aplikacji serwerowej dane, a w Produktach powinniśmy pobierać dane o produktach z aplikacji serwerowej; [Link do commita](https://github.com/WBZdeb/E-Biznes-Zadania/commit/ee734019061cb542414aa3b009fe9d3e5ae3dae8)
+
+:white_check_mark: 3.5 Należy dodać Koszyk wraz z widokiem; należy wykorzystać routing [Link do commita](https://github.com/WBZdeb/E-Biznes-Zadania/commit/ee734019061cb542414aa3b009fe9d3e5ae3dae8)
+
+:white_check_mark: 4.0 Dane pomiędzy wszystkimi komponentami powinny być przesyłane za pomocą React hooks [Link do commita](https://github.com/WBZdeb/E-Biznes-Zadania/commit/ee734019061cb542414aa3b009fe9d3e5ae3dae8)
+
+:x: 4.5 Należy dodać skrypt uruchamiający aplikację serwerową oraz kliencką na dockerze via docker-compose
+
+:x: 5.0 Należy wykorzystać axios’a oraz dodać nagłówki pod CORS
+
+
+Kod: folder "Zadanie5"
+
+
+
+**Zadanie 6** Testy
+
+:white_check_mark: Należy stworzyć 20 przypadków testowych w CypressJS lub Selenium (Kotlin, Python, Java, JS, Go, Scala) [Link do commita](https://github.com/WBZdeb/E-Biznes-Zadania/commit/ee734019061cb542414aa3b009fe9d3e5ae3dae8)
+
+:white_check_mark: 3.5 Należy rozszerzyć testy funkcjonalne, aby zawierały minimum 50 asercji [Link do commita](https://github.com/WBZdeb/E-Biznes-Zadania/commit/ee734019061cb542414aa3b009fe9d3e5ae3dae8)
+
+:x: 4.0 Należy stworzyć testy jednostkowe do wybranego wcześniejszego projektu z minimum 50 asercjami
+
+:x: 4.5 Należy dodać testy API, należy pokryć wszystkie endpointy z minimum jednym scenariuszem negatywnym per endpoint
+
+:x: 5.0 Należy uruchomić testy funkcjonalne na Browserstacku
+
+
+Kod: folder "Zadanie6"
+
+
+
 Kod nalezy umieścić w w folderach lub na branchach, ale nalezy pod kazdym zadaniem wskazac link do brancha lub nazwę katalogu na repozytorium. 
 
 Do kazdego zadania nalezy przygotowac demo za pomocą https://obsproject.com/, a film (skompresowany) nalezy umiescic w katalogu demos.
